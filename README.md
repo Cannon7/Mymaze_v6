@@ -2,7 +2,7 @@
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{This software will get a maze from a text file, then it will print out the initial maze. Then, it will hand the maze to the Solver which will use recursion to check every option until it gets to the end of the maze. Then it will print the maze out again and present the recursion functions answer.}
+{This software will get a maze from a text file, then it will print out the initial maze. Then, it will hand the maze to the Solver which will use recursion to check every option until it reaches the end of the maze. Then it will print the maze out again and present the recursion function answer.}
 
 {Describe your purpose for creating this software.}
 
