@@ -6,7 +6,7 @@
 
 {Describe your purpose for creating this software.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]((https://www.youtube.com/watch?v=53oVGL8lgxg))
 
 # Development Environment
 
